@@ -1614,4 +1614,5 @@ bandit10@bandit:~$
 
 Screenshoots
 
-[label](vscode-local:/Screenshot%20%282%29.png%0D) [label](vscode-local:/Screenshot%20%283%29.png%0D) [label](vscode-local:/Screenshot%20%284%29.png%0D) [label](vscode-local:/Screenshot%20%285%29.png%0D) [label](vscode-local:/Screenshot%20%286%29.png%0D) [label](vscode-local:/Screenshot%20%287%29.png%0D) [label](vscode-local:/Screenshot%20%288%29.png%0D) [label](vscode-local:/Screenshot%20%289%29.png%0D) [label](vscode-local:/Screenshot%20%2810%29.png%0D) [label](vscode-local:/Screenshot%20%2811%29.png%0D) ![Alt text](vscode-local:/Screenshot%20%2812%29.png)
+![Alt text](Screenshots/Screenshot%20(2).png)
+
