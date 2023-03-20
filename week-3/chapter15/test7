@@ -1,0 +1,4 @@
+ls: cannot access test: No such file or directory
+ls: cannot access badtest: No such file or directory
+4 -rw-rw-r--. 1 centos centos 340 Mar 17 10:27 test2
+0 -rw-rw-r--. 1 centos centos   0 Mar 17 10:28 test3
