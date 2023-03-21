@@ -1,0 +1,7 @@
+total 8
+drwxrwxr-x. 2 centos centos 4096 Mar 17 09:25 chapter14
+drwxrwxr-x. 2 centos centos    6 Mar 17 09:57 chapter15
+-rw-rw-r--. 1 centos centos    0 Mar 17 10:26 test2
+-rw-rw-r--. 1 centos centos   77 Mar 17 10:22 testfile.txt
+centos   pts/2        2023-03-17 09:20 (80.65.68.82)
+centos   pts/4        2023-03-17 09:56 (95.180.123.114)
