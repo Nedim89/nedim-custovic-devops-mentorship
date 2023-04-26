@@ -24,7 +24,7 @@
 - [x] Na EC2 instanci `ec2-nedim-custovic-task-8` kreirao sam Let's Encrypt SSL certifikat za moju domenu.
 - Korištene komande za instalaciju certbota iz materijala DEVOPS-mentorship
 
-![img-4](/week-8-task-8/screenshootsTask-8/Lets encrypt.PNG)
+![img-4](/week-8-task-8/screenshootsTask-8/Lets_encrypt.PNG)
 
 - [x] Omoguciti autorenewal SSL certifikata
 
