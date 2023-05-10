@@ -17,7 +17,7 @@
 
 - [x] Screenshot - distribution endpointa
 
-![img-5](/week-9-task-9/CloudFront endpoint.PNG)
+![img-5](/week-9-task-9/CloudFront_endpoint.PNG)
 
 - [x] Screenshot - R53 recorda koji je uspješno izvršio load distribucije
 
